@@ -1,4 +1,4 @@
-
+import React from "react"
 
 import Footer from "./componets/Footer/Footer";
 import Header from "./componets/Header/Header";
@@ -7,12 +7,13 @@ import Nav from "./componets/Nav/Nav";
 function App() {
   return (
     <div className="App">
-      <Nav/>   
+     {/*  <Nav/>   
       <Header/>  
-      <Footer/>  
+      <Footer/>  */} 
       <Nav/>    
     </div>
   );
 }
 
 export default App;
+
