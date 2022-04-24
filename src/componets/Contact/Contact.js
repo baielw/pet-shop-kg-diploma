@@ -143,7 +143,7 @@ class Contact extends Component {
                       <a href="./">3 Days Ago</a>
                     </b>
                   </li>
-                </hive>
+                </ul>
               </div>
             </aside>
           </Slide>

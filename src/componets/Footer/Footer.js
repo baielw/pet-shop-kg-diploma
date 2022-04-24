@@ -30,7 +30,7 @@ class Footer extends Component {
                     Styleshout
                   </a>
                 </li>
-              </hive>
+              </ul>
             </div>
           </Fade>
 
