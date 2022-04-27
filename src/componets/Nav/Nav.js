@@ -5,13 +5,13 @@ function Nav() {
         <nav>
 
 
-            <div class="logo">
-                <span class="pet">Pet</span>-<span class="shop">Shop</span>.kg
+            <div className="logo">
+                <span className="pet">Pet</span>-<span className="shop">Shop</span>.kg
                 <p>easy, accessible and simple</p>
             </div>
 
 
-            <div class="top-menu">
+            <div className="top-menu">
                 <ul>
                     <li><a href="https://google.com">DOGS</a></li>
                     <li><a href="https://google.com">CATS</a></li>
