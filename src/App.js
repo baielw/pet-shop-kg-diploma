@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
       <Nav/>   
-      <Header/>  
-      <Footer/>  
-      texty
+       <Header/>  
+      <Footer/>   
+      {/**/}
     </div>
   );
 }
