@@ -6,10 +6,10 @@ import Footer from "./componets/Footer/Footer";
 function App() {
   return (
     <div className="App">
-      <Nav />
-      <Header />
-      <Footer />
-      <Table />
+      <Nav/>
+      <Header/>
+      <Table/>
+      <Footer/>
       {/**/}
     </div>
   );

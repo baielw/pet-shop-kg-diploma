@@ -2,15 +2,18 @@ import "./Table.css";
 function Table() {
     return (
 
-        <nav>
+      
+            <span>
+            <div className=".hearedd"></div>
+            <div className=".hearedd"></div>
+            <div className=".hearedd"></div>
+            </span>
 
-  <div></div>
-  <div></div>
-  <div></div>
 
 
 
-          
-        </nav>
+
     );
 }
+
+export default Table;
