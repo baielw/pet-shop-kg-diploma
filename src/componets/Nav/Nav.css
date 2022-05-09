@@ -5,21 +5,10 @@ nav {
 
 .logo {
     width: 100%;
-    float: left;
     height: 55px;
     background-color: rgb(122, 29, 29);
-    margin-left: -15px;
-}
+    float: right;
 
-.logo a {
-    display: block;
-    margin-left: 15px;
-    margin-top: 10px;
-    font-family: "Exo2-Bold", sans-serif;
-    font-size: 28px;
-    color: #0a060a;
-    text-decoration: none;
-    cursor: pointer;
 }
 
 .pet {
@@ -32,9 +21,10 @@ nav {
 }
 
 .logo p {
-    margin-left: 5px;
+    margin-right: 5px;
     margin-top: 2px;
     margin-bottom: 5px;
+    margin-left: 5px;
     font-family: "Exo2-Medium", sans-serif;
     font-size: 13px;
     color: rgb(0, 0, 0);
@@ -49,15 +39,16 @@ nav {
 
 .top-menu ul li {
     list-style: none;
-    float: left;
+    float: right;
     text-align: center;
 }
 
 .top-menu ul li a {
+    margin: 5px;
     display: block;
     width: 150px;
     text-decoration: none;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 600;
     color: rgb(151, 19, 19);
     height: 43px;
