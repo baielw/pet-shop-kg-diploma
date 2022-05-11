@@ -1,26 +1,28 @@
 import "./Header.css";
+import headerImage from '../../assens/table1img.jpg'
+
 function Header() {
     return (
         <header>
             {/**/}
 
-            <div className="doby">
 
 
 
 
                 <div className="table">
-                    <div className="tabled1">Lorem ipsum dolor</div>
-                    <div className="tabled2">Lorem ipsum dolor</div>
-                    <div className="tabled3">Lorem ipsum dolor</div> 
-                    <div className="tabled4">Lorem ipsum dolor</div>
-                    <div className="tabled5">Lorem ipsum dolor</div>
-                    <div className="tabled6">Lorem ipsum dolor</div>
+                    <div className="tabled">
+                        <img src={headerImage} alt='headerImage' width={320} height={350} />
+                    </div>
+                    <div className="tabled">Lorem ipsum dolor</div>
+                    <div className="tabled">Lorem ipsum dolor</div> 
+                    <div className="tabled">Lorem ipsum dolor</div>
+                    <div className="tabled">Lorem ipsum dolor</div>
+                    <div className="tabled">Lorem ipsum dolor</div>
                 </div>
 
 
 
-            </div>
 
 
 
