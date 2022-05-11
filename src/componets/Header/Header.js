@@ -7,9 +7,6 @@ function Header() {
             {/**/}
 
 
-
-
-
                 <div className="table">
                     <div className="tabled">
                         <img src={headerImage} alt='headerImage' width={320} height={350} />
