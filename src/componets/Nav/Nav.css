@@ -5,6 +5,7 @@ nav {
     border-radius: 20px;
     background-image: url(../../assens/header.jpg);
     background-size: 100% 700px;
+    overflow: hidden;
 }
 
 .logo {
@@ -29,8 +30,13 @@ text-align: center ;
 .top-menu p {
     text-align: center;
     color: black;
-    font-size: 30px;
-    margin-top: 300px;
+
+    font-size: 50px;
+    font-family: fantasy;
+    font-weight: 200;
+
+    margin: 480px;
+    margin-left: auto; 
     float:left ;
 }
 .top-menu ul li {
