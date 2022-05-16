@@ -1,5 +1,6 @@
 import "./Header.css";
-import headerImage from '../../assens/table1img.jpg'
+/*import headerImage from '../../assens/table1img.jpg'*/
+
 
 function Header() {
     return (
@@ -21,9 +22,6 @@ function Header() {
                     <div className="copyin">
                         <p>Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                     </div>
-                    <div className="copyin"></div>
-                    <div className="copyin">Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
-                   
                 </div>
 
                 {/*
