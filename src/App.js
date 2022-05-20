@@ -31,8 +31,8 @@
 
 
 import Home from "./pages/Home";
-import Contacts from "./pages/Contacts";
-import Products from "./pages/Products";
+import Contacts from "./pages/Animals";
+import Products from "./pages/About";
 import { Route, Routes } from "react-router-dom";
 import Layout from "./components/Layout/Layout";
 import Product from "./pages/Product";
@@ -59,3 +59,5 @@ function App() {
 }
 
 export default App;
+
+
