@@ -1,38 +1,6 @@
-
-
-// import Home from "./pages/Home";
-// import Animals from "./pages/Animals";
-// import About from "./pages/About/About";
-// import Header from "./componets/Header/Header";
-// import { Route, Routes } from "react-router-dom";
-// import Layout from "./componets/Layout/Layout";
-
-// function App() {
-//   return (
-//     <div className="App">
-
-//       <Header />
-//       <Layout>
-//         <Routes>
-//           <Route path="/" element={<Home />} />
-//           <Route path="/animals" element={<Animals />} />
-//           <Route path="/about" element={<About />} />
-//         </Routes>
-//       </Layout>
-
-//       {/**/}
-//     </div>
-//   );
-// }
-
-// export default App;
-
-
-
-
 import Home from "./pages/Home";
-import Contacts from "./pages/Animals";
-import Products from "./pages/About";
+import Contacts from "./pages/Contacts";
+import Products from "./pages/Products";
 import { Route, Routes } from "react-router-dom";
 import Layout from "./components/Layout/Layout";
 import Product from "./pages/Product";
@@ -59,5 +27,3 @@ function App() {
 }
 
 export default App;
-
-
